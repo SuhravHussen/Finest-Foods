@@ -1,0 +1,15 @@
+.checkout-table{
+    height: 30vh;
+    overflow: auto;
+}
+.checkOut-btn{
+    width: 15%;
+    margin: 40px;
+    height: 60px;
+    border: none;
+    color: white;
+    background: yellowgreen;
+    font-size: larger;
+    font-weight: 500;
+    border-radius: 10px;
+}
